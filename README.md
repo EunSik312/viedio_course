@@ -15,3 +15,6 @@
 - 시퀀스 아이콘
   
 <img width="235" height="215" alt="image" src="https://github.com/user-attachments/assets/0042b40e-7e07-499a-ac2c-422ee1ffd1f5" />
+
+- 새로운 시퀀스 생성
+<img width="1014" height="418" alt="image" src="https://github.com/user-attachments/assets/14bd2d86-b570-41af-ab31-353d4a356acb" />
