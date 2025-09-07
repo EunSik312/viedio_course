@@ -13,4 +13,4 @@
 - 시퀀스(도화지)
 
   <img width="235" height="215" alt="image" src="https://github.com/user-attachments/assets/0042b40e-7e07-499a-ac2c-422ee1ffd1f5" />
-시퀀스 아이콘
+- 시퀀스 아이콘
