@@ -7,6 +7,10 @@
 - 소스패널
   패널을 닫는 경우 * 창 > 작업영역 > 학습을 편집으로 변경
 
-<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/fef57e9c-7045-4df4-9cae-87ef1a83a959" />
-패널을 위와 같이 만들기
+기본 셋팅
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/9b908a8d-2aa5-4bc4-99e3-1520d06230ac" />
 
+- 시퀀스(도화지)
+
+  <img width="235" height="215" alt="image" src="https://github.com/user-attachments/assets/0042b40e-7e07-499a-ac2c-422ee1ffd1f5" />
+시퀀스 아이콘
