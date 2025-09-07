@@ -9,8 +9,10 @@
 
 기본 셋팅
 - 시퀀스(도화지)
+  
 <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/9b908a8d-2aa5-4bc4-99e3-1520d06230ac" />
 
 - 시퀀스 아이콘
+- 
   <img width="235" height="215" alt="image" src="https://github.com/user-attachments/assets/0042b40e-7e07-499a-ac2c-422ee1ffd1f5" />
 
